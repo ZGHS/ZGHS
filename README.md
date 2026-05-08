@@ -45,12 +45,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### 📌 Pinned Repositories
-- [echarts3-mapFile](https://github.com/ZGHS/echarts3-mapFile) — ECharts 全国省市县区地图数据
-- [GreatWork](https://github.com/ZGHS/GreatWork) — 云笔记系统 Web + Android
-
----
-
 <p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
