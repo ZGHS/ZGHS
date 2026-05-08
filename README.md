@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 
 ### 👨‍💻 关于我 | About Me
 - 🔭 专注于 **Java 开发 / 前端可视化 / 安卓应用**
-- 🌱 正在学习 **SpringBoot、Vue、ECharts 数据可视化**
-- 🎯 兴趣方向：云笔记系统、地图可视化、开源工具
+- 🌱 正在学习 **SpringBoot、Vue、React、ECharts 数据可视化**
+- 🎯 兴趣方向：开源工具、云笔记系统、地图可视化
 - 📫 联系方式：GitHub Issues / Discussions
 
 ---
@@ -52,14 +52,6 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
-
----
-
-### 📌 置顶项目 | Pinned Repositories (根据你的主页更新)
-- 🌍 [echarts3-mapFile](https://github.com/ZGHS/echarts3-mapFile) — ECharts 3.0 全国省市县区地图数据
-- 📝 [GreatWork](https://github.com/ZGHS/GreatWork) — 云笔记系统（Web + Android）
-- 🏫 [ClassAffairs](https://github.com/ZGHS/ClassAffairs) — 班级事务管理系统
-- 📘 [BookReader](https://github.com/ZGHS/BookReader) — 安卓图书阅读器
 
 ---
 
