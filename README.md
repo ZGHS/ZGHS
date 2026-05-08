@@ -3,11 +3,10 @@ ZGHS/ZGHS is a ✨ special ✨ repository because its `README.md` (this file) ap
 You can click the Preview link to take a look at your changes.
 --->
 
-
-<!-- 动态顶部 Banner -->
+<!-- 动态打字 Banner -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+ZGHS!;Full+Stack+Developer;Java+%7C+Android+%7C+ECharts" />
 
-<hr/>
+---
 
 ### 👨‍💻 关于我 | About Me
 - 🔭 专注于 **Java 开发 / 前端可视化 / 安卓应用**
@@ -15,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 - 🎯 兴趣方向：云笔记系统、地图可视化、开源工具
 - 📫 联系方式：GitHub Issues / Discussions
 
-<hr/>
+---
 
 ### 🛠 技术栈 | Tech Stack
 <p>
@@ -28,9 +27,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/ECharts-5470C6?style=for-the-badge&logo=apacheecharts&logoColor=white" />
 </p>
 
-<hr/>
+---
 
-### 📊 稳定统计 | GitHub Stats (100% 加载)
+### 📊 GitHub 数据统计 (稳定加载)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZGHS&theme=tokyonight" />
 </p>
@@ -40,30 +39,29 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZGHS&theme=tokyonight" />
 </p>
 
-<hr/>
+---
 
-### 🗓 活动日历 | Activity Graph
+### 🗓 年度贡献热力图
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZGHS&bg_color=1a1b27&color=ffffff&line=6366f1&point=ffffff&area=true&hide_border=true" />
 </p>
 
-<hr/>
+---
 
-### 🌍 访客地图 | Visitor Map
+### 🐍 贪吃蛇贡献动画
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
-<p align="center">
-  <img src="https://visit-map.vercel.app/api?username=ZGHS&color=blue" />
-</p>
 
-<hr/>
+---
 
-### 📌 置顶项目 | Pinned Repos
-- 🌍 [echarts3-mapFile](https://github.com/ZGHS/echarts3-mapFile) — ECharts 全国省市县区地图数据
-- 📝 [GreatWork](https://github.com/ZGHS/GreatWork) — 云笔记系统 Web + Android
+### 📌 置顶项目 | Pinned Repositories (根据你的主页更新)
+- 🌍 [echarts3-mapFile](https://github.com/ZGHS/echarts3-mapFile) — ECharts 3.0 全国省市县区地图数据
+- 📝 [GreatWork](https://github.com/ZGHS/GreatWork) — 云笔记系统（Web + Android）
+- 🏫 [ClassAffairs](https://github.com/ZGHS/ClassAffairs) — 班级事务管理系统
+- 📘 [BookReader](https://github.com/ZGHS/BookReader) — 安卓图书阅读器
 
-<hr/>
+---
 
 <p align="center">
   💖 Thanks for visiting my GitHub profile!
