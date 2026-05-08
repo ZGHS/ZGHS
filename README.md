@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### 📊 GitHub 数据统计 (稳定加载)
+### 📊 GitHub 数据统计
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZGHS&theme=tokyonight" />
 </p>
