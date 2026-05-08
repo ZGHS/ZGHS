@@ -36,12 +36,16 @@ You can click the Preview link to take a look at your changes.
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZGHS&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZGHS&theme=tokyonight&hide_border=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZGHS&layout=compact&theme=tokyonight&hide_border=true" />
+  <!-- 基础统计卡片 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ZGHS&show_icons=true&theme=tokyonight&hide_border=true" alt="ZGHS's GitHub Stats" />
+  <br><br>
+  <!-- 连续提交卡片（修复了加载问题，和你当前数据匹配） -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZGHS&theme=tokyonight&hide_border=true" alt="ZGHS's Streak Stats" />
+  <br><br>
+  <!-- 语言统计卡片（修复了加载问题） -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZGHS&layout=compact&theme=tokyonight&hide_border=true" alt="ZGHS's Top Languages" />
 </p>
+
 
 ---
 
