@@ -9,8 +9,8 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### 👨‍💻 关于我 | About Me
-- 🔭 专注于 **Java 开发 / 前端可视化 / 安卓应用**
-- 🌱 正在学习 **SpringBoot、Vue、React、ECharts 数据可视化**
+- 🔭 专注于 **Java 开发 / 前端开发 / 全栈开发 / Python应用 / 安卓应用**
+- 🌱 正在学习 **SpringBoot、Vue、React、Electron、ECharts 数据可视化**
 - 🎯 兴趣方向：开源工具、云笔记系统、地图可视化
 - 📫 联系方式：GitHub Issues / Discussions
 
